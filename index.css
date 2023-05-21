@@ -1,0 +1,9 @@
+.post{
+  max-width: 300px;
+  margin: 20px auto;
+  background-color: white;
+}
+.image{
+  border: solid 2px black;
+  width: 375px;
+}
